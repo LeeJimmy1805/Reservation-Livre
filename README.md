@@ -1,4 +1,4 @@
-# Reservation Livre
+# Reservation Livre (en cours)
  
 Une API REST réalisée avec NestJS permettant de simuler un système de reservation de livres. La technologie de base de données à utiliser est MongoDB.
 Un administrateur peut créer un livre et supprimer un livre.
